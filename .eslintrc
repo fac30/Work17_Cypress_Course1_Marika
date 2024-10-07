@@ -1,4 +1,5 @@
 {
+  "root": true,
   "extends": [
     "next", 
     "prettier"
@@ -7,3 +8,4 @@
     "prettier"
   ]
 }
+
